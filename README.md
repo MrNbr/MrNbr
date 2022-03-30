@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrnbr" alt="mrnbr" /></a> </p>
 
-- 🔭 I’m currently working on **Abiquo, a hybrid cloud managament platform**
+- 🔭 I’m currently working on **Accenture**, as part of the Big Data team
 
 - 🌱 I’m currently learning **Python, focused on backend development with Django framework. Also, my next steps will be to start on web development with HTML + CSS + JS**
 
