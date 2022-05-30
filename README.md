@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Accenture**, as part of the Big Data team
 
-- 🌱 I’m currently learning **Python and Scala, for Big Data workload. Also, my next steps will be to start on web development with HTML + CSS + JS**
+- 🌱 I’m currently learning **Python and Scala, for Big Data workloads. Also, my next steps will be to start on web development with HTML + CSS + JS**
 
 - 👯 I’m looking to collaborate on **any motivating project**
 
